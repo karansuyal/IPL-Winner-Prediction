@@ -10,7 +10,7 @@ An end-to-end Machine Learning project that predicts the winner of an IPL match 
 
 ### 🔍 Live Demo
 
-https://github.com/user-attachments/assets/your-screenshot
+https://ipl-winner-prediction1.streamlit.app/
 
 ## 📊 Key Features
 
